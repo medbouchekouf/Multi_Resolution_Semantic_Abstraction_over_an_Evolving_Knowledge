@@ -1,269 +1,121 @@
-# Multi_Resolution_Semantic_Abstraction_over_an_Evolving_Knowledge
-"Semantic Level of Detail over a > Temporal Knowledge Hypergraph
+# TRAIL-Hyper
 
+**Temporally Recurrent Reinforcement-learning for Adaptive, Interpretable Laminar Hypergraph abstraction.**
 
-<div align="center">
+This repository is a reproducible starter for multi-resolution semantic abstraction over the evolving knowledge hypergraph in Collection 10. It treats hyperedges as native multi-way objects; it does not silently replace them with pairwise edges.
 
-# 🌌 Multi-Resolution Semantic Abstraction over an Evolving Knowledge Base
+## Research claim and scope
 
-**A living, zoomable map of your knowledge — from raw facts to global themes, always up to date.**
+The implementation tests a proposed method rather than reporting completed research results. RL graph coarsening, dynamic hypergraph learning, and recurrent temporal encoders are established ideas. The proposed contribution is their use together for **temporally stable, semantic, laminar, native-hypergraph coarsening**. See [`paper/main.tex`](paper/main.tex) for precise, cautious positioning.
 
-[![Stars](https://img.shields.io/github/stars/your-org/mrsa?style=social)](https://github.com/your-org/mrsa/stargazers)
-[![Forks](https://img.shields.io/github/forks/your-org/mrsa?style=social)](https://github.com/your-org/mrsa/network/members)
-[![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Paper](https://img.shields.io/badge/paper-coming%20soon-orange.svg)](#citation)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-
-[✨ Features](#-key-features) •
-[🏗 Architecture](#-architecture) •
-[🚀 Quick Start](#-quick-start) •
-[📊 Evaluation](#-evaluation) •
-[📖 Citation](#-citation)
-
-</div>
-
----
-
-## 🧭 Overview
-
-Large knowledge bases — Wikidata-style graphs, enterprise KBs, streaming fact stores — are **never static**: entities appear, relations are corrected, entire subtopics drift. Flat retrieval forces a painful trade-off: drowning-level detail, or lossy one-shot summaries.
-
-This project takes a different path — **multi-resolution semantic abstraction**:
-
-> 🧩 **Cluster** facts into semantically coherent communities at several granularities
-> 📝 **Abstract** each community into a natural-language + embedding summary
-> 🌳 **Organize** these nodes into a resolution tree — raw triples up to domain themes
-> ♻️ **Maintain** the tree *incrementally*: when the KB evolves, only affected branches are re-abstracted
-> 🔍 **Query** at any resolution — drill down for evidence, roll up for gist
-
-The result: a **living, zoomable map** of the knowledge base that stays fresh without full recomputation.
-
----
-
-## ✨ Key Features
-
-| | |
-|---|---|
-| 🌲 **Multi-resolution hierarchy** | L0 raw triples → L1 entity/event clusters → L2 topic abstractions → L3 global themes, with cross-level provenance links |
-| ♻️ **Incremental evolution** | Insertions, deletions, and corrections trigger *localized* subtree updates — never a global rebuild |
-| 🧠 **Hybrid semantic nodes** | Every node carries an LLM-generated summary **and** a dense embedding — symbolic and neural access |
-| 🎯 **Resolution-aware retrieval** | Queries route to the cheapest sufficient level, with automatic drill-down when confidence is low |
-| ⏳ **Temporal awareness** | Versioned abstractions — ask *"what did this topic look like at time t?"* |
-| 🔌 **Pluggable backends** | RDF/SPARQL, Neo4j property graphs, or plain JSONL fact streams; swappable LLM & embedding providers |
-
----
-
-## 🏗 Architecture
-
-```
-                ┌──────────────────────────────┐
-                │        🔍 Query Router        │   resolution-aware retrieval
-                └──────────────┬───────────────┘
-                               │
-        ┌──────────────────────▼──────────────────────┐
-        │     🌳 Multi-Resolution Abstraction Tree     │
-        │   L3 themes ── L2 topics ── L1 clusters ── L0│
-        └───────▲───────────────────────────▲─────────┘
-                │ abstraction               │ provenance
-        ┌───────┴───────────┐      ┌────────┴─────────┐
-        │  📝 Abstractor     │      │  ♻️ Evolution     │  diff detection,
-        │  (LLM + embedder)  │      │  Monitor         │  impact analysis
-        └───────▲───────────┘      └────────▲─────────┘
-                │                           │ change stream
-        ┌───────┴───────────────────────────┴─────────┐
-        │   🗄 Evolving Knowledge Base                 │
-        │   (RDF / property graph / JSONL stream)      │
-        └─────────────────────────────────────────────┘
-```
-
-**Pipeline stages**
-
-1. **📥 Ingestion** — normalize facts into `(subject, relation, object, timestamp, provenance)` quintuples
-2. **🧩 Community detection** — embedding-assisted graph clustering (Leiden / HDBSCAN) → L1 communities
-3. **📝 Abstraction** — LLM summarizes each community; nodes are recursively clustered & re-summarized → L2/L3
-4. **♻️ Evolution monitor** — KB changes map to impacted communities; only *dirty* subtrees are re-abstracted
-5. **🔍 Query routing** — top-down embedding match: answer at the coarsest sufficient level, expand provenance for evidence
-
----
-
-## 📦 Installation
+## Setup
 
 ```bash
-git clone https://github.com/your-org/mrsa.git
-cd mrsa
-
-python -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
+python -m venv .venv
+.venv\\Scripts\\activate
+pip install -e ".[dev]"
 ```
 
-Optional backends:
+## Data and snapshots
+
+The source files are intentionally not copied into the repository. Provide the exported temporal hypergraph and choose cumulative cutoffs:
 
 ```bash
-pip install ".[neo4j]"     # 🕸 property-graph backend
-pip install ".[rdf]"       # 🔗 RDFLib / SPARQL endpoint backend
-pip install ".[openai]"    # 🤖 OpenAI-compatible LLM + embeddings
+trail-hyper describe \
+  --hypergraph "D:/My files/Temporary/Downloads/Eskatrina/tkh_collection10.json" \
+  --cutoffs 2022 2024 2026 \
+  --output artifacts/description.json
+
+trail-hyper run \
+  --hypergraph "D:/My files/Temporary/Downloads/Eskatrina/tkh_collection10.json" \
+  --cutoffs 2022 2024 2026 \
+  --levels 2 \
+  --rl \
+  --output artifacts/run.json
+
+trail-hyper experiment \
+  --hypergraph "D:/My files/Temporary/Downloads/Eskatrina/tkh_collection10.json" \
+  --cutoffs 2022 2024 2026 --levels 2 \
+  --output artifacts/experiments.json
 ```
 
----
+Snapshot rule: a node is available when `first_seen_year <= cutoff`; a hyperedge is available when its own `year <= cutoff`. This avoids future leakage. The original source has `node_year` semantics documented in `meta`; `first_seen_year` is used for availability because it represents first appearance in the corpus.
 
-## 🚀 Quick Start
+## What is implemented
 
-```python
-from mrsa import KnowledgeBase, AbstractionTree, EvolutionMonitor
+- Native temporal hypergraph loader and snapshot diagnostics (T1).
+- Hyperedge arity distributions and projection-loss accounting.
+- Deterministic semantic/structural warm-start coarsener producing a laminar hierarchy.
+- Executable hyperedge-collapse rule: retain coarse multi-way hyperedges, endpoint multiplicities, relation type, and internal evidence.
+- A deterministic, executable GRU recurrent memory is updated at each snapshot and injected into semantic coarsening compatibility.
+- Persistent super-node matching and a birth/growth/merge/split/death event log.
+- A small NumPy policy-gradient (`REINFORCE`) policy selects the first 128 bounded merge actions with `--rl`; the deterministic heuristic completes each level as a reproducible warm start. PPO/HyperGNN can be substituted behind the same action interface.
+- Registered baseline runner and evaluation helpers for coherence, stability, and label-faithfulness audits.
+- DOT diagrams exported per snapshot as `artifacts/coarse_<cutoff>.dot`.
 
-kb = KnowledgeBase.from_jsonl("data/facts.jsonl")
+## Neo4j: native hypergraph model
 
-tree = AbstractionTree(kb, levels=3, llm="gpt-4o-mini", embedder="bge-large")
-tree.build()                      # 🌳 initial multi-resolution build
-
-print(tree.summarize(level=3))    # 🌐 coarse themes over the whole KB
-
-# The KB evolves...
-monitor = EvolutionMonitor(tree)
-monitor.apply_delta("data/facts_delta.jsonl")   # ♻️ incremental re-abstraction
-
-# Query at any resolution
-answer = tree.query("How has the EV battery supply chain changed?",
-                    resolution="auto")
-print(answer.text, answer.evidence)
-```
-
----
-
-## 🛠 Usage
-
-<details open>
-<summary><b>🌳 Building the abstraction hierarchy</b></summary>
+Start the database and load the source export:
 
 ```bash
-python -m mrsa.build \
-    --kb data/facts.jsonl \
-    --levels 3 \
-    --cluster-algo leiden \
-    --out checkpoints/tree_v1.pkl
+docker compose up -d
+trail-hyper neo4j-seed \
+  --hypergraph "D:/My files/Temporary/Downloads/Eskatrina/tkh_collection10.json" \
+  --password trail-hyper-local
 ```
-</details>
 
-<details>
-<summary><b>♻️ Incremental updates on an evolving KB</b></summary>
+The graph is stored as `(:Entity)` nodes, first-class `(:Hyperedge)` nodes, and `(:Hyperedge)-[:HAS_MEMBER {position}]->(:Entity)` incidence relationships. This is the Neo4j representation of the native hypergraph; it does not use a clique projection. Open Neo4j Browser at `http://localhost:7474`.
+
+```cypher
+// Inspect native multi-way relations available at a cutoff.
+MATCH (h:Hyperedge)-[:HAS_MEMBER]->(n:Entity)
+WHERE h.year <= 2024 AND n.first_seen_year <= 2024
+RETURN h.relation_type, h.arity, collect(n.surface_form) AS endpoints
+LIMIT 25;
+```
+
+## Guardrails
+
+- The hierarchy is laminar by construction: each parent is a union of previous-level groups.
+- Actions are restricted to top-k admissible candidate merges, avoiding an O(|V|²) unrestricted action space.
+- Relation type and endpoint multiplicity are never discarded while coarsening.
+- Temporal matching never uses future snapshots.
+- Labels must be generated only from contemporaneous member evidence. The code emits an auditable labeller input; it does not fabricate labels or call an LLM.
+- GRU and RL choices are reproducibly seeded; the manuscript distinguishes the runnable baseline from a trained research model.
+
+## Repository map
+
+```
+src/trail_hyper/   implementation
+tests/             small synthetic-hypergraph tests
+paper/             arXiv-style manuscript and bibliography
+```
+
+## Method diagram
+
+```mermaid
+flowchart LR
+  H[Temporal native hypergraph] --> E[Typed hypergraph + semantic encoder]
+  E --> R[GRU temporal state]
+  R --> A[Bounded admissible merge actions]
+  A --> P[RL policy]
+  P --> L[Laminar hierarchy]
+  L --> C[Multiplicity-preserving coarse hypergraph]
+  L --> T[Persistent IDs and event log]
+  L --> F[Evidence-bounded labels]
+```
+
+## Experiment plan
+
+The executable runner reports structural-only, semantic/structural recurrent, and semantic-emphasis baselines. The registered full comparison adds: (1) native coarsening without RL/RNN, (2) clique expansion + graph clustering, (3) semantic-only clustering, (4) no temporal memory, and (5) no semantic signal. Key metrics are hyperedge retention, semantic coherence, temporal membership agreement, event rate, label support/over-claim rate, Recall@$k$, and MRR against `ground_truth.json`.
+
+## Paper figures
+
+After running the experiment command, regenerate all manuscript figures with:
 
 ```bash
-python -m mrsa.evolve \
-    --tree checkpoints/tree_v1.pkl \
-    --delta data/facts_delta.jsonl \
-    --strategy local-reabstract \
-    --out checkpoints/tree_v2.pkl
+python paper/figures/generate_figures.py \
+  --hypergraph "D:/My files/Temporary/Downloads/Eskatrina/tkh_collection10.json" \
+  --experiments artifacts/experiments.json \
+  --out paper/figures
 ```
-
-`--strategy` options: `local-reabstract` (default, cheapest) · `recluster-dirty` · `full-rebuild` (baseline)
-</details>
-
-<details>
-<summary><b>🔍 Multi-resolution querying</b></summary>
-
-```bash
-python -m mrsa.query \
-    --tree checkpoints/tree_v2.pkl \
-    --q "What are the main research trends in this corpus?" \
-    --resolution 2          # 0=raw triples … 3=global themes, or "auto"
-```
-</details>
-
----
-
-## ⚙️ Configuration
-
-All knobs live in `configs/default.yaml`:
-
-| 🔧 Key | Default | Description |
-|---|---|---|
-| `levels` | `3` | Number of abstraction levels above raw facts |
-| `cluster.algo` | `leiden` | `leiden`, `hdbscan`, or `louvain` |
-| `cluster.resolution` | `[0.5, 1.0, 2.0]` | Per-level clustering granularity |
-| `abstractor.max_facts_per_node` | `200` | Facts folded into one summary prompt |
-| `evolution.impact_radius` | `2` | Graph hops for change-impact analysis |
-| `evolution.dirty_threshold` | `0.15` | Changed-fact fraction that marks a community dirty |
-| `query.confidence_threshold` | `0.7` | Below this, drill down one level |
-
----
-
-## 📚 Datasets
-
-- 🧪 **Synthetic evolving KB** — `data/synthetic/`, scripted fact streams with controlled drift
-- 🌐 **Temporally sliced Wikidata** — monthly dumps, 2019–2024 (`scripts/prepare_wikidata.py`)
-- 📰 **Event/news fact streams** — GDELT-derived quintuples (`scripts/prepare_gdelt.py`)
-
----
-
-## 📊 Evaluation
-
-```bash
-python -m mrsa.eval --tree <ckpt> --suite all
-```
-
-| Metric | What it measures | Target |
-|---|---|---|
-| ⚡ **Freshness** | Abstraction latency per KB delta vs. full rebuild | ≥10× faster, <1% quality loss |
-| 📝 **Abstraction quality** | Faithfulness & coverage per level (G-Eval / human) | — |
-| 🎯 **Retrieval** | Answer accuracy & evidence recall vs. flat RAG | — |
-| 🧊 **Stability** | Tree churn per update (lower = better) | — |
-
----
-
-## 🗂 Project Structure
-
-```
-mrsa/
-├── 📁 kb/          # knowledge base adapters (jsonl, rdf, neo4j)
-├── 📁 cluster/     # community detection at each resolution
-├── 📁 abstract/    # LLM summarization + embedding of communities
-├── 📁 tree/        # hierarchy, versioning, provenance
-├── 📁 evolve/      # change detection, impact analysis, incremental update
-├── 📁 query/       # resolution-aware router & answer composition
-└── 📁 eval/        # benchmarks and metrics
-configs/            # ⚙️ YAML configs
-scripts/            # 🛠 dataset preparation
-data/               # 📚 sample fact streams
-```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! 🎉 Please open an issue to discuss your idea, then submit a PR against `main`. See [CONTRIBUTING.md](CONTRIBUTING.md) for the dev setup.
-
----
-
-## 📖 Citation
-
-```bibtex
-@article{mrsa2026,
-  title  = {Multi-Resolution Semantic Abstraction over an Evolving Knowledge Base},
-  author = {Anonymous},
-  year   = {2026},
-  note   = {Manuscript in preparation}
-}
-```
-
----
-
-## 📄 License
-
-Apache-2.0 — see [LICENSE](LICENSE).
-
----
-
-<div align="center">
-
-## ⭐ Star History
-
-**If this project helps you, please consider giving it a star — it means a lot! 🌟**
-
-[![Star History Chart](https://api.star-history.com/svg?repos=your-org/mrsa&type=Date)](https://star-history.com/#your-org/mrsa&Date)
-
-[![Stargazers repo roster](https://reporoster.com/stars/your-org/mrsa)](https://github.com/your-org/mrsa/stargazers)
-
-
-
-</div>
