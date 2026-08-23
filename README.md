@@ -4,6 +4,17 @@
 
 This repository is a reproducible starter for multi-resolution semantic abstraction over the evolving knowledge hypergraph in Collection 10. It treats hyperedges as native multi-way objects; it does not silently replace them with pairwise edges.
 
+<p align="center">
+  <img src="Logo.png" alt="TRAIL-Hyper Logo" width="220"/>
+</p>
+
+<h1 align="center">TRAIL-Hyper</h1>
+
+<p align="center">
+  <strong>Temporally Recurrent Reinforcement-learning for Adaptive, Interpretable Laminar Hypergraph Abstraction</strong>
+</p>
+
+
 ## Research claim and scope
 
 The implementation tests a proposed method rather than reporting completed research results. RL graph coarsening, dynamic hypergraph learning, and recurrent temporal encoders are established ideas. The proposed contribution is their use together for **temporally stable, semantic, laminar, native-hypergraph coarsening**. See [`paper/main.tex`](paper/main.tex) for precise, cautious positioning.
