@@ -1,0 +1,7595 @@
+{
+  "runs": [
+    {
+      "cutoff": 2022,
+      "levels": [
+        {
+          "clusters": 2164,
+          "coarse_edges": 526,
+          "internal_edges": 0
+        },
+        {
+          "clusters": 1082,
+          "coarse_edges": 126,
+          "internal_edges": 400
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_0",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_2",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_3",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_4",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_5",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_6",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_7",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_8",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_9",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_10",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_11",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_12",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_13",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_14",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_15",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_16",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_17",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_18",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_19",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_20",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_21",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_22",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_23",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_24",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_25",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_26",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_27",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_28",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_29",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_30",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_31",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_32",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_33",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_34",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_35",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_36",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_37",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_38",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_39",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_40",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_41",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_42",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_43",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_44",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_45",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_46",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_47",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_48",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_49",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_50",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_51",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_52",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_53",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_54",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_55",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_56",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_57",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_58",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_59",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_60",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_61",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_62",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_63",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_64",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_65",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_66",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_67",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_68",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_69",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_70",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_71",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_72",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_73",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_74",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_75",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_76",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_77",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_78",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_79",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_80",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_81",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_82",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_83",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_84",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_85",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_86",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_87",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_88",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_89",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_90",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_91",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_92",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_93",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_94",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_95",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_96",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_97",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_98",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_99",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_100",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_101",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_102",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_103",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_104",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_105",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_106",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_107",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_108",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_109",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_110",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_111",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_112",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_113",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_114",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_115",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_116",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_117",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_118",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_119",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_120",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_121",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_122",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_123",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_124",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_125",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_126",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_127",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_128",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_129",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_130",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_131",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_132",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_133",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_134",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_135",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_136",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_137",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_138",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_139",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_140",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_141",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_142",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_143",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_144",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_145",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_146",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_147",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_148",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_149",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_150",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_151",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_152",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_153",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_154",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_155",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_156",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_157",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_158",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_159",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_160",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_161",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_162",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_163",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_164",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_165",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_166",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_167",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_168",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_169",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_170",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_171",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_172",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_173",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_174",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_175",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_176",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_177",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_178",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_179",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_180",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_181",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_182",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_183",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_184",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_185",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_186",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_187",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_188",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_189",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_190",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_191",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_192",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_193",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_194",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_195",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_196",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_197",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_198",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_199",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_200",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_201",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_202",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_203",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_204",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_205",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_206",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_207",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_208",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_209",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_210",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_211",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_212",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_213",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_214",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_215",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_216",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_217",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_218",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_219",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_220",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_221",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_222",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_223",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_224",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_225",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_226",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_227",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_228",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_229",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_230",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_231",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_232",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_233",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_234",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_235",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_236",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_237",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_238",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_239",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_240",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_241",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_242",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_243",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_244",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_245",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_246",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_247",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_248",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_249",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_250",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_251",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_252",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_253",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_254",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_255",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_256",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_257",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_258",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_259",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_260",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_261",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_262",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_263",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_264",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_265",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_266",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_267",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_268",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_269",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_270",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_271",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_272",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_273",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_274",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_275",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_276",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_277",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_278",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_279",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_280",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_281",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_282",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_283",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_284",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_285",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_286",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_287",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_288",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_289",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_290",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_291",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_292",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_293",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_294",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_295",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_296",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_297",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_298",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_299",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_300",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_301",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_302",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_303",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_304",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_305",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_306",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_307",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_308",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_309",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_310",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_311",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_312",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_313",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_314",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_315",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_316",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_317",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_318",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_319",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_320",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_321",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_322",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_323",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_324",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_325",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_326",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_327",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_328",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_329",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_330",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_331",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_332",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_333",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_334",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_335",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_336",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_337",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_338",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_339",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_340",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_341",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_342",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_343",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_344",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_345",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_346",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_347",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_348",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_349",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_350",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_351",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_352",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_353",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_354",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_355",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_356",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_357",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_358",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_359",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_360",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_361",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_362",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_363",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_364",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_365",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_366",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_367",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_368",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_369",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_370",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_371",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_372",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_373",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_374",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_375",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_376",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_377",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_378",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_379",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_380",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_381",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_382",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_383",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_384",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_385",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_386",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_387",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_388",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_389",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_390",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_391",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_392",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_393",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_394",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_395",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_396",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_397",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_398",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_399",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_400",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_401",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_402",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_403",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_404",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_405",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_406",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_407",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_408",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_409",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_410",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_411",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_412",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_413",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_414",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_415",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_416",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_417",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_418",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_419",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_420",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_421",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_422",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_423",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_424",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_425",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_426",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_427",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_428",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_429",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_430",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_431",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_432",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_433",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_434",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_435",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_436",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_437",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_438",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_439",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_440",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_441",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_442",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_443",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_444",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_445",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_446",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_447",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_448",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_449",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_450",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_451",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_452",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_453",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_454",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_455",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_456",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_457",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_458",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_459",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_460",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_461",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_462",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_463",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_464",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_465",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_466",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_467",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_468",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_469",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_470",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_471",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_472",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_473",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_474",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_475",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_476",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_477",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_478",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_479",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_480",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_481",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_482",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_483",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_484",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_485",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_486",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_487",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_488",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_489",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_490",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_491",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_492",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_493",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_494",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_495",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_496",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_497",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_498",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_499",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_500",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_501",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_502",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_503",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_504",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_505",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_506",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_507",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_508",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_509",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_510",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_511",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_512",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_513",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_514",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_515",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_516",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_517",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_518",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_519",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_520",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_521",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_522",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_523",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_524",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_525",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_526",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_527",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_528",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_529",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_530",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_531",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_532",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_533",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_534",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_535",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_536",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_537",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_538",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_539",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_540",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_541",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_542",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_543",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_544",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_545",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_546",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_547",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_548",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_549",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_550",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_551",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_552",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_553",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_554",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_555",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_556",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_557",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_558",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_559",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_560",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_561",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_562",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_563",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_564",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_565",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_566",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_567",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_568",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_569",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_570",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_571",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_572",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_573",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_574",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_575",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_576",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_577",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_578",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_579",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_580",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_581",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_582",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_583",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_584",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_585",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_586",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_587",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_588",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_589",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_590",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_591",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_592",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_593",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_594",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_595",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_596",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_597",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_598",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_599",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_600",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_601",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_602",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_603",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_604",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_605",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_606",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_607",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_608",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_609",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_610",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_611",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_612",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_613",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_614",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_615",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_616",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_617",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_618",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_619",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_620",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_621",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_622",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_623",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_624",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_625",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_626",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_627",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_628",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_629",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_630",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_631",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_632",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_633",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_634",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_635",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_636",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_637",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_638",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_639",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_640",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_641",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_642",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_643",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_644",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_645",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_646",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_647",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_648",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_649",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_650",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_651",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_652",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_653",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_654",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_655",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_656",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_657",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_658",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_659",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_660",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_661",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_662",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_663",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_664",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_665",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_666",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_667",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_668",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_669",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_670",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_671",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_672",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_673",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_674",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_675",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_676",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_677",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_678",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_679",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_680",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_681",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_682",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_683",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_684",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_685",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_686",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_687",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_688",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_689",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_690",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_691",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_692",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_693",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_694",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_695",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_696",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_697",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_698",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_699",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_700",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_701",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_702",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_703",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_704",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_705",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_706",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_707",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_708",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_709",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_710",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_711",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_712",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_713",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_714",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_715",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_716",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_717",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_718",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_719",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_720",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_721",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_722",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_723",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_724",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_725",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_726",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_727",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_728",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_729",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_730",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_731",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_732",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_733",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_734",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_735",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_736",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_737",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_738",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_739",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_740",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_741",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_742",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_743",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_744",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_745",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_746",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_747",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_748",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_749",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_750",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_751",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_752",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_753",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_754",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_755",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_756",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_757",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_758",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_759",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_760",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_761",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_762",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_763",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_764",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_765",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_766",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_767",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_768",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_769",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_770",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_771",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_772",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_773",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_774",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_775",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_776",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_777",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_778",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_779",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_780",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_781",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_782",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_783",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_784",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_785",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_786",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_787",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_788",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_789",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_790",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_791",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_792",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_793",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_794",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_795",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_796",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_797",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_798",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_799",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_800",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_801",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_802",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_803",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_804",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_805",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_806",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_807",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_808",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_809",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_810",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_811",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_812",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_813",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_814",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_815",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_816",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_817",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_818",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_819",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_820",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_821",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_822",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_823",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_824",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_825",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_826",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_827",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_828",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_829",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_830",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_831",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_832",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_833",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_834",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_835",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_836",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_837",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_838",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_839",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_840",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_841",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_842",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_843",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_844",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_845",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_846",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_847",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_848",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_849",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_850",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_851",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_852",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_853",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_854",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_855",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_856",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_857",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_858",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_859",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_860",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_861",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_862",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_863",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_864",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_865",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_866",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_867",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_868",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_869",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_870",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_871",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_872",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_873",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_874",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_875",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_876",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_877",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_878",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_879",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_880",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_881",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_882",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_883",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_884",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_885",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_886",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_887",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_888",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_889",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_890",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_891",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_892",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_893",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_894",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_895",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_896",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_897",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_898",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_899",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_900",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_901",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_902",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_903",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_904",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_905",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_906",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_907",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_908",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_909",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_910",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_911",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_912",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_913",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_914",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_915",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_916",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_917",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_918",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_919",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_920",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_921",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_922",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_923",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_924",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_925",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_926",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_927",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_928",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_929",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_930",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_931",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_932",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_933",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_934",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_935",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_936",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_937",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_938",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_939",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_940",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_941",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_942",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_943",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_944",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_945",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_946",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_947",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_948",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_949",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_950",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_951",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_952",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_953",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_954",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_955",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_956",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_957",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_958",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_959",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_960",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_961",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_962",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_963",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_964",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_965",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_966",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_967",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_968",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_969",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_970",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_971",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_972",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_973",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_974",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_975",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_976",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_977",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_978",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_979",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_980",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_981",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_982",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_983",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_984",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_985",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_986",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_987",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_988",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_989",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_990",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_991",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_992",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_993",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_994",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_995",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_996",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_997",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_998",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_999",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1000",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1001",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1002",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1003",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1004",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1005",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1006",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1007",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1008",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1009",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1010",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1011",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1012",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1013",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1014",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1015",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1016",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1017",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1018",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1019",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1020",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1021",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1022",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1023",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1024",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1025",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1026",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1027",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1028",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1029",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1030",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1031",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1032",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1033",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1034",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1035",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1036",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1037",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1038",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1039",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1040",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1041",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1042",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1043",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1044",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1045",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1046",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1047",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1048",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1049",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1050",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1051",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1052",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1053",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1054",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1055",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1056",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1057",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1058",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1059",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1060",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1061",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1062",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1063",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1064",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1065",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1066",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1067",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1068",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1069",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1070",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1071",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1072",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1073",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1074",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1075",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1076",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1077",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1078",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1079",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1080",
+      "related_ids": [],
+      "overlap": 0.0
+    },
+    {
+      "snapshot": 2022,
+      "kind": "birth",
+      "cluster_id": "S2022_1081",
+      "related_ids": [],
+      "overlap": 0.0
+    }
+  ]
+}

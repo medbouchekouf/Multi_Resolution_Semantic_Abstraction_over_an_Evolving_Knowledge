@@ -1,0 +1,85 @@
+{
+  "cutoffs": [
+    2022,
+    2024,
+    2026
+  ],
+  "baselines": {
+    "structural_only": [
+      {
+        "cutoff": 2022,
+        "hyperedge_retention": 0.9140909036068369,
+        "clusters": 1082,
+        "stability": 0.0,
+        "events": 1082
+      },
+      {
+        "cutoff": 2024,
+        "hyperedge_retention": 0.9269166158095575,
+        "clusters": 2082,
+        "stability": 0.8724584103512015,
+        "events": 2318
+      },
+      {
+        "cutoff": 2026,
+        "hyperedge_retention": 0.92781965260995,
+        "clusters": 2899,
+        "stability": 0.9543707973102786,
+        "events": 3055
+      }
+    ],
+    "semantic_structural": [
+      {
+        "cutoff": 2022,
+        "hyperedge_retention": 0.851682401025136,
+        "clusters": 1082,
+        "stability": 0.0,
+        "events": 1082
+      },
+      {
+        "cutoff": 2024,
+        "hyperedge_retention": 0.8628407982386529,
+        "clusters": 2082,
+        "stability": 0.8604436229205176,
+        "events": 2186
+      },
+      {
+        "cutoff": 2026,
+        "hyperedge_retention": 0.8716903689452644,
+        "clusters": 2899,
+        "stability": 0.931075888568684,
+        "events": 3014
+      }
+    ],
+    "semantic_emphasis": [
+      {
+        "cutoff": 2022,
+        "hyperedge_retention": 0.7613030164670661,
+        "clusters": 1082,
+        "stability": 0.0,
+        "events": 1082
+      },
+      {
+        "cutoff": 2024,
+        "hyperedge_retention": 0.755630040738647,
+        "clusters": 2082,
+        "stability": 0.9348428835489834,
+        "events": 2134
+      },
+      {
+        "cutoff": 2026,
+        "hyperedge_retention": 0.7567589911859965,
+        "clusters": 2899,
+        "stability": 0.968059558117195,
+        "events": 2962
+      }
+    ]
+  },
+  "metrics": [
+    "hyperedge_retention",
+    "temporal_membership_agreement",
+    "label_support_rate",
+    "Recall@k",
+    "MRR"
+  ]
+}
